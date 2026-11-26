@@ -2,7 +2,7 @@
 
 **Português (Brasil)**
 
-Aqui ficam os arquivos prontos do Folha a Folha, da DiceFlow Software. O código não está aqui.
+Aqui ficam os arquivos prontos do Folha a Folha, da Primor Labs. O código não está aqui.
 
 | App | Arquivo | Versão |
 |---|---|---|
@@ -16,7 +16,7 @@ Aqui ficam os arquivos prontos do Folha a Folha, da DiceFlow Software. O código
 
 **English**
 
-This is where the ready-to-use Folha a Folha files live, from DiceFlow Software. The source code is not here.
+This is where the ready-to-use Folha a Folha files live, from Primor Labs. The source code is not here.
 
 | App | File | Version |
 |---|---|---|
